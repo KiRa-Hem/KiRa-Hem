@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Vasa Hemesh</h1>
+<h1 align="center">👋 Vasa Hemesh</h1>
 <h3 align="center">🚀 Cybersecurity Enthusiast | CTF Player | AI & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+%7C+Cyber+Security+Specialist;CTF+Player+%7C+AI+Enthusiast+%7C+Linux+L pumpkins;Building+Secure+%26+Intelligent+Systems¢er=true&width=800&height=45&color=58A6FF&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+%7C+Cyber+Security+Specialist;CTF+Player+%7C+AI+Enthusiast+%7C+Linux+Lover;Building+Secure+%26+Intelligent+Systems¢er=true&width=800&height=45&color=58A6FF&vCenter=true" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/hemeshvasa"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/hemeshvasa400276"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <a href="mailto:hemeshvasa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
 
 ---
@@ -11,7 +17,7 @@
 $ whoami
 👨‍💻 Vasa Hemesh
 🎓 B.Tech Computer Science (Cybersecurity) @ GITAM University, Bangalore (2022–2026)
-⚔️ Passionate about solving complex problems through code, CTFs, and secure system design
+⚔️ Crafting secure, intelligent systems through code, CTFs, and innovative solutions
 ```
 
 ## 🛠️ Skills Stack
@@ -23,6 +29,22 @@ $ skills
 🌐 Networking:       [TCP/IP, DNS, Ports, Scanning, Enumeration]
 🛡️ Cyber Tools:      [Nikto, Dirb, Enum4linux, Hydra]
 🤖 AI/ML:            [TensorFlow, Scikit-learn]
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square" />
+</p>
+
+## 🌱 Currently Exploring
+```bash
+$ learning
+🔍 Advanced AI/ML for cybersecurity applications
+☁️ Cloud-native deployments with GCP and Docker
+⚙️ Real-time network monitoring and threat detection
 ```
 
 ## 💼 Experience
@@ -47,22 +69,22 @@ $ cat education.txt
 ## 🏅 Certifications
 ```bash
 $ ls /certs
-📜 Cisco: Introduction to Cybersecurity (https://www.credly.com/badges/bfec1b74-6d74-4fdd-a920-77e587ae1d27)
-📜 Zscaler: Intro to Networking for Cyber Professionals (https://verify.skilljar.com/c/bcoucjwwckjq)
-📜 Mastercard Cybersecurity Job Simulation – Forage (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_qaH7Wfmjnf4gYau8K_1722186349157_completion_certificate.pdf)
+📜 [Cisco: Introduction to Cybersecurity](https://www.credly.com/badges/bfec1b74-6d74-4fdd-a920-77e587ae1d27)
+📜 [Zscaler: Intro to Networking for Cyber Professionals](https://verify.skilljar.com/c/bcoucjwwckjq)
+📜 [Mastercard Cybersecurity Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_qaH7Wfmjnf4gYau8K_1722186349157_completion_certificate.pdf)
 ```
 
 ## 🚀 Featured Projects
 ```bash
 $ ls /projects
-🛡️ Machine Learning-Based Intrusion Detection System (IDS) (https://github.com/hemeshvasa/ml-ids)
+🛡️ [Machine Learning-Based Intrusion Detection System (IDS)](https://github.com/hemeshvasa/ml-ids)
    ▸ AI-driven tool for detecting and mitigating malicious network traffic
    ▸ Tech: Python, TensorFlow, Scikit-learn
    ▸ Interfaces: Terminal & Web-based dashboard
-🛡️ Workfolio – AI-Integrated Job Portal (https://github.com/hemeshvasa/workfolio)
+🛡️ [Workfolio – AI-Integrated Job Portal](https://github.com/hemeshvasa/workfolio)
    ▸ Full-stack platform connecting job seekers and employers
    ▸ Tech: Java, Spring Boot, React, TypeScript, MySQL
-🔐 Campus CTF Platform (https://github.com/hemeshvasa/campus-ctf)
+🔐 [Campus CTF Platform](https://github.com/hemeshvasa/campus-ctf)
    ▸ Designed and deployed CTF challenges using GCP and CTFd
    ▸ Domains: Crypto, Web, OSINT, Forensics, Reversing
 ```
@@ -75,16 +97,6 @@ $ ping me
 🖥️ GitHub:  https://github.com/hemeshvasa
 🌐 Website:  [Coming Soon]
 ```
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hemeshvasa&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hemeshvasa&theme=radical" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemeshvasa&layout=compact&theme=radical" />
-  <img src="https://komarev.com/ghpvc/?username=hemeshvasa&label=Profile+Views&color=blue&style=flat-square" />
-</p>
 
 ## 💡 Fun Fact
 ```bash
@@ -112,9 +124,9 @@ $ fortune
      ```
 
 4. **Enhancements**:
-   - Write CTF challenge writeups in a `ctf-writeups` repo to showcase problem-solving skills.
+   - Create a `ctf-writeups` repo for CTF solutions to showcase problem-solving skills.
    - Add badges for hackathons, CTF rankings, or new certifications.
-   - Create a personal website using GitHub Pages and link it in the `Website` section.
+   - Build a personal website using GitHub Pages and update the `Website` link.
 
 ## 📋 Setup Instructions
 1. Create a repository named `hemeshvasa` (matching your GitHub username).
