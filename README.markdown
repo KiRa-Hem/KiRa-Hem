@@ -94,7 +94,7 @@ $ ls /projects
 $ ping me
 📧 Email:    hemeshvasa@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/hemeshvasa400276
-🖥️ GitHub:  https://github.com/hemeshvasa
+🖥️ GitHub:  https://github.com/KiRa-Hem
 🌐 Website:  [Coming Soon]
 ```
 
