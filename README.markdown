@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hemeshvasa"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
+  <a href="https://github.com/KiRa-Hem"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/hemeshvasa400276"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <a href="mailto:hemeshvasa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
@@ -105,31 +105,3 @@ $ fortune
 ```
 
 ---
-
-## ✅ Next Steps
-1. **Pin Repositories**:
-   - Pin `ml-ids`, `workfolio`, and `campus-ctf` to your GitHub profile.
-   - Ensure each repo has a detailed README with setup instructions, screenshots, and tech stack.
-
-2. **Profile Customization**:
-   - Add a professional profile photo (e.g., a headshot or tech-themed avatar).
-   - Set your GitHub bio to:  
-     `"B.Tech Cybersecurity | CTF Enthusiast | Building AI & Secure Systems"`
-
-3. **Resume Link**:
-   - Create a repository (`hemeshvasa/resume`) and upload `Vasa_Hemesh_Resume.pdf`.
-   - Add to README:  
-     ```bash
-     $ curl -O https://github.com/hemeshvasa/resume/raw/main/Vasa_Hemesh_Resume.pdf
-     ```
-
-4. **Enhancements**:
-   - Create a `ctf-writeups` repo for CTF solutions to showcase problem-solving skills.
-   - Add badges for hackathons, CTF rankings, or new certifications.
-   - Build a personal website using GitHub Pages and update the `Website` link.
-
-## 📋 Setup Instructions
-1. Create a repository named `hemeshvasa` (matching your GitHub username).
-2. Add this `README.md` file to the repository.
-3. Verify project links (e.g., `https://github.com/hemeshvasa/ml-ids`) and update if needed.
-4. Commit and push to make it live on your GitHub profile.
